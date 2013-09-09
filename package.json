@@ -1,0 +1,17 @@
+{
+  "author": "Alex Scheel Meyer",
+  "name": "ipcommon",
+  "description": "All that should have been part of something else but was not.",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/alexscheelmeyer/ipcommon.git"
+  },
+  "main": "ipcommon.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
